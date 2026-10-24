@@ -15,7 +15,7 @@ This interactive multi-page dashboard translates complex socio-economic datasets
 The dashboard is structured across 4 dedicated pages, offering both high-level macro overviews and granular thematic analysis:
 
 ### 1. 🏠 Landing & Navigation Page
-* **Purpose:** Serves as the interactive portal for report navigation[cite: 2].
+* **Purpose:** Serves as the interactive portal for report navigation.
 * **Key Visuals:** High-resolution dynamic header, structured navigation buttons leading to all major report sections, and thematic category icons.
 
 ### 2. 📊 Executive Overview
